@@ -9,7 +9,7 @@
   const menus = [
     { path: "/app/aspects", text: "kriteria", icon: FaArchive },
     { path: "/app/data", text: "data", icon: FaTable  },
-    { path: "/app/decision", text: "penentuan", icon: FaPlay },
+    { path: "/app/pm", text: "penentuan", icon: FaPlay },
     { path: "/app/testing", text: "testing", icon: FaTachometerAlt }
   ];
 </script>
