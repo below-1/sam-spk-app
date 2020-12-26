@@ -4,6 +4,9 @@
 </div>
 
 <style lang="css">
+  .foo {
+    background: red;
+  }
     .landing {
         background: 
             linear-gradient(to bottom, rgba(250, 250, 250, 0.9), rgba(250, 250, 250, 0.8) 40%, rgba(250, 250, 250, 0.4)),

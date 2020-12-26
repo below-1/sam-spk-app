@@ -7,6 +7,10 @@ body {
   padding: 0;
 }
 
+.foo {
+  background: red;
+}
+
 table.jo-table tr:nth-child(even) {
   background: rgb(250, 250, 250);
 }
@@ -15,6 +19,7 @@ table.jo-table {
   background: white;
   border: 1px solid #eee;
   border-collapse: all;
+  width: 100%;
 }
 
 table.jo-table > thead {
